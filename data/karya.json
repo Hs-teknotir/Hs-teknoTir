@@ -1,0 +1,23 @@
+[
+  {
+    "id": "karya1",
+    "nama": "Kedai Coffee",
+    "deskripsi": "Website untuk kedai kopi dengan menu dan galeri foto.",
+    "gambar": "./images/karya-1.png",
+    "url": "https://hs-teknotir.github.io/kedaiCoffee/"
+  },
+  {
+    "id": "karya2",
+    "nama": "greenlife",
+    "deskripsi": "Membawa kehijauan dan kesejukan ke setiap rumah perkotaan melalui tanaman hias dan solusi urban farming berkualitas.",
+    "gambar": "./images/karya-2.png",
+    "url": "https://hs-teknotir.github.io/hs-greenlife/"
+  },
+  {
+    "id": "karya3",
+    "nama": "HsWear",
+    "deskripsi": "Website untuk HsWear, merek pakaian yang mengusung tema keberlanjutan.",
+    "gambar": "./images/karya-3.png",
+    "url": "https://hs-teknotir.github.io/HsWear/"
+  }
+]

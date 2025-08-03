@@ -1,0 +1,65 @@
+[
+  {
+    "id": "hemat",
+    "nama": "Paket Hemat",
+    "hargaAsli": "Rp 699.000",
+    "hargaDiskon": "Rp 499.000",
+    "deskripsi": "Untuk pemula & usaha mikro yang ingin langsung punya kehadiran online.",
+    "fitur": [
+      "1 Halaman Statis",
+      "Tombol WhatsApp & Lokasi Google Maps",
+      "QR Code Custom",
+      "Desain Responsif HP & Desktop",
+      "Hosting Gratis Netlify Subdomain",
+      "SEO Dasar Judul & Deskripsi",
+      "Selesai dalam 3–5 hari kerja"
+    ],
+    "revisiSupport": [
+      "Maks. 2x Revisi selama 7 hari",
+      "Support via Chat/Email 7 hari",
+      "Update konten minor: Tidak termasuk"
+    ]
+  },
+  {
+    "id": "standar",
+    "nama": "Paket Standar",
+    "hargaAsli": "Rp 1.200.000",
+    "hargaDiskon": "Rp 899.000",
+    "deskripsi": "Untuk UMKM yang ingin tampil profesional dengan konten lebih lengkap.",
+    "fitur": [
+      "Semua fitur Paket Hemat",
+      "Domain .my.id Gratis 1 Tahun",
+      "Galeri Produk hingga 8 Foto",
+      "Testimoni Pelanggan",
+      "Formulir Kontak",
+      "SEO Dasar ALT gambar + meta",
+      "Banner Promosi Digital untuk IG/WA"
+    ],
+    "revisiSupport": [
+      "Maks. 3x Revisi selama 14 hari",
+      "1x Update Konten Minor gratis dalam 30 hari",
+      "Support via Chat/Email 30 hari"
+    ]
+  },
+  {
+    "id": "proplus",
+    "nama": "Paket Pro+",
+    "hargaAsli": "Rp 1.900.000",
+    "hargaDiskon": "Rp 1.500.000",
+    "deskripsi": "Untuk usaha serius yang ingin layanan lengkap dan citra profesional maksimal.",
+    "fitur": [
+      "Semua fitur Paket Standar",
+      "Domain .COM Gratis 1 Tahun",
+      "Email Bisnis",
+      "Halaman Galeri & Testimoni Terpisah",
+      "Laporan Visitor Dasar ",
+      "Backup Otomatis Tahunan",
+      "Banner Promosi Tambahan 2 desain"
+    ],
+    "revisiSupport": [
+      "Revisi bebas 30 hari, wajar & sesuai scope statis",
+      "Update konten ringan 4x dalam 1 tahun",
+      "Support Prioritas 1 Tahun via chat/email"
+    ]
+  }
+]
